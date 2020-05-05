@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Image Search</string>
+    <string name="activity_search">Search</string>
+    <string name="activity_about">About App</string>
+</resources>
